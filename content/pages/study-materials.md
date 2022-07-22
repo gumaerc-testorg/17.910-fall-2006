@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides a standard set of questions to consider for each
+  reading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 69dca1b8-4f85-1201-d26d-da63d0f2b50f
 ---
